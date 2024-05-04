@@ -1,4 +1,7 @@
-Learning to Program|Project Management Specialist | Architect|
+
+## About me
+
+I'm Nando, passionate about programming ang technology! | Learning to Program | Project Management Specialist | Architect |
 
 <!---
 nandojmj/nandojmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
